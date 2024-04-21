@@ -1,0 +1,3 @@
+"","id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"1","ieu-b-110","t1pcFL","outcome","LDL cholesterol || id:ieu-b-110","MR Egger",167.288348701404,136,0.0352857362744451
+"2","ieu-b-110","t1pcFL","outcome","LDL cholesterol || id:ieu-b-110","Inverse variance weighted",167.894946363035,137,0.0373994121245671

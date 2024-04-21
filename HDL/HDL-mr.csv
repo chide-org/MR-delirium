@@ -1,0 +1,6 @@
+"","id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"1","ieu-b-109","delirium","delirium","HDL cholesterol || id:ieu-b-109","MR Egger",285,-0.228738981531495,0.135002668533065,0.0913028415251843
+"2","ieu-b-109","delirium","delirium","HDL cholesterol || id:ieu-b-109","Weighted median",285,0.0862111081007576,0.114752828645791,0.452486244717007
+"3","ieu-b-109","delirium","delirium","HDL cholesterol || id:ieu-b-109","Inverse variance weighted",285,-0.12710069523477,0.0880190085525957,0.14873499056412
+"4","ieu-b-109","delirium","delirium","HDL cholesterol || id:ieu-b-109","Simple mode",285,-0.00769581121038598,0.249584612155999,0.975423201793329
+"5","ieu-b-109","delirium","delirium","HDL cholesterol || id:ieu-b-109","Weighted mode",285,0.0303608714140502,0.101408640507726,0.76486043314001

@@ -1,6 +1,0 @@
-"","id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
-"1","ieu-b-38","9mlaj9","outcome","systolic blood pressure || id:ieu-b-38","MR Egger",199,-0.00214147634989372,0.0122224019107627,0.861095264491047
-"2","ieu-b-38","9mlaj9","outcome","systolic blood pressure || id:ieu-b-38","Weighted median",199,0.00724423113817465,0.00632857572518957,0.252339311451729
-"3","ieu-b-38","9mlaj9","outcome","systolic blood pressure || id:ieu-b-38","Inverse variance weighted",199,-0.00280294960086607,0.00459895457390972,0.542209384789298
-"4","ieu-b-38","9mlaj9","outcome","systolic blood pressure || id:ieu-b-38","Simple mode",199,0.0203795323624801,0.0183545999947741,0.268206499915859
-"5","ieu-b-38","9mlaj9","outcome","systolic blood pressure || id:ieu-b-38","Weighted mode",199,0.0203795323624801,0.0137877013841966,0.14097132687212

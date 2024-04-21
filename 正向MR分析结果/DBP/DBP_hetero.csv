@@ -1,0 +1,3 @@
+"","id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"1","ieu-b-39","ShuUoz","outcome","diastolic blood pressure || id:ieu-b-39","MR Egger",438.295059092523,390,0.0458740504277626
+"2","ieu-b-39","ShuUoz","outcome","diastolic blood pressure || id:ieu-b-39","Inverse variance weighted",438.349282446022,391,0.0491729927264217

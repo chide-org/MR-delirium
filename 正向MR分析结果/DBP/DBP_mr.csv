@@ -1,0 +1,6 @@
+"","id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"1","ieu-b-39","delirium","delirium","diastolic blood pressure || id:ieu-b-39","MR Egger",392,-0.00321402509170583,0.0213386522725817,0.880353454321066
+"2","ieu-b-39","delirium","delirium","diastolic blood pressure || id:ieu-b-39","Weighted median",392,0.0112043829408492,0.0130295412437268,0.38983230374949
+"3","ieu-b-39","delirium","delirium","diastolic blood pressure || id:ieu-b-39","Inverse variance weighted",392,0.00106722042979429,0.00867560791408857,0.902096084988981
+"4","ieu-b-39","delirium","delirium","diastolic blood pressure || id:ieu-b-39","Simple mode",392,0.0373992496162581,0.0418522656313998,0.37208479513114
+"5","ieu-b-39","delirium","delirium","diastolic blood pressure || id:ieu-b-39","Weighted mode",392,0.0257593406531446,0.031273560229467,0.4106247136686

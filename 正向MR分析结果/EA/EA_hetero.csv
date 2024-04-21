@@ -1,0 +1,3 @@
+"","id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"1","L4M3yN","IPpcL3","outcome","exposure","MR Egger",514.925600125981,494,0.248982444300814
+"2","L4M3yN","IPpcL3","outcome","exposure","Inverse variance weighted",515.358171810725,495,0.254793690651415

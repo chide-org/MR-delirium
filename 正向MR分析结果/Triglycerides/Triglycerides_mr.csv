@@ -1,0 +1,6 @@
+"","id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"1","ieu-b-111","delirium","delirium","triglycerides || id:ieu-b-111","MR Egger",246,0.0276142834299933,0.118169122382745,0.815425918767059
+"2","ieu-b-111","delirium","delirium","triglycerides || id:ieu-b-111","Weighted median",246,-0.144777731955965,0.111403685882256,0.193745789648552
+"3","ieu-b-111","delirium","delirium","triglycerides || id:ieu-b-111","Inverse variance weighted",246,0.0288648664734777,0.0805554681469056,0.720101705682772
+"4","ieu-b-111","delirium","delirium","triglycerides || id:ieu-b-111","Simple mode",246,0.109232991625553,0.219334830736666,0.618917133617198
+"5","ieu-b-111","delirium","delirium","triglycerides || id:ieu-b-111","Weighted mode",246,-0.192350272901415,0.0966924921447286,0.0477802693089056

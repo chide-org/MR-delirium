@@ -1,0 +1,3 @@
+"","id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"1","ieu-b-111","PysSjT","outcome","triglycerides || id:ieu-b-111","MR Egger",423.691505089373,244,7.91511071758917e-12
+"2","ieu-b-111","PysSjT","outcome","triglycerides || id:ieu-b-111","Inverse variance weighted",423.691869705188,245,1.04955714386434e-11

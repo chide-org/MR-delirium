@@ -1,0 +1,3 @@
+"","id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"1","ieu-b-38","iILdq9","outcome","systolic blood pressure || id:ieu-b-38","MR Egger",369.320707862236,386,0.720755609068041
+"2","ieu-b-38","iILdq9","outcome","systolic blood pressure || id:ieu-b-38","Inverse variance weighted",370.954426308326,387,0.712555561638646

@@ -1,0 +1,3 @@
+"","id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"1","ieu-b-108","KPE9r2","outcome","apolipoprotein B || id:ieu-b-108","MR Egger",226.432835045714,152,8.54627053437655e-05
+"2","ieu-b-108","KPE9r2","outcome","apolipoprotein B || id:ieu-b-108","Inverse variance weighted",231.036562606613,153,4.67162867143542e-05

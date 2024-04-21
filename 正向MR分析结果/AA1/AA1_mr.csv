@@ -1,0 +1,6 @@
+"","id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"1","ieu-b-107","delirium","delirium","apolipoprotein A-I || id:ieu-b-107","MR Egger",242,-0.432218013272562,0.148575988759566,0.00396527914804701
+"2","ieu-b-107","delirium","delirium","apolipoprotein A-I || id:ieu-b-107","Weighted median",242,0.0332380267748668,0.116415146013125,0.775251217277862
+"3","ieu-b-107","delirium","delirium","apolipoprotein A-I || id:ieu-b-107","Inverse variance weighted",242,-0.232244411566115,0.0934957566565331,0.012991209317938
+"4","ieu-b-107","delirium","delirium","apolipoprotein A-I || id:ieu-b-107","Simple mode",242,0.183874385398254,0.229341605475639,0.423488020607777
+"5","ieu-b-107","delirium","delirium","apolipoprotein A-I || id:ieu-b-107","Weighted mode",242,0.034585077430747,0.123385409717586,0.779486891682426

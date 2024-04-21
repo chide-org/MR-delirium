@@ -1,0 +1,6 @@
+"","id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"1","ieu-b-108","delirium","delirium","apolipoprotein B || id:ieu-b-108","MR Egger",154,0.298155552111191,0.109086630455622,0.00701644337645949
+"2","ieu-b-108","delirium","delirium","apolipoprotein B || id:ieu-b-108","Weighted median",154,0.195577552794231,0.121467577891242,0.107371344922546
+"3","ieu-b-108","delirium","delirium","apolipoprotein B || id:ieu-b-108","Inverse variance weighted",154,0.172683056284908,0.0830577540564617,0.0376107271946493
+"4","ieu-b-108","delirium","delirium","apolipoprotein B || id:ieu-b-108","Simple mode",154,-0.253430413501084,0.249658604745305,0.311656978136043
+"5","ieu-b-108","delirium","delirium","apolipoprotein B || id:ieu-b-108","Weighted mode",154,0.129373766490465,0.100551772915954,0.200163743164276

@@ -1,3 +1,0 @@
-"","id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
-"1","ieu-b-109","JkptyE","outcome","HDL cholesterol || id:ieu-b-109","MR Egger",529.876656190514,283,3.24823769803204e-17
-"2","ieu-b-109","JkptyE","outcome","HDL cholesterol || id:ieu-b-109","Inverse variance weighted",531.722627855299,284,2.88659951531903e-17

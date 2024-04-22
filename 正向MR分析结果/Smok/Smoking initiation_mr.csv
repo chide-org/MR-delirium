@@ -1,0 +1,6 @@
+"","id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"1","2vrdcJ","delirium","delirium","Smoking initiation","MR Egger",73,-0.413308826828032,0.657025276357121,0.531328087984677
+"2","2vrdcJ","delirium","delirium","Smoking initiation","Weighted median",73,0.178889039658727,0.190420573129373,0.347503977377546
+"3","2vrdcJ","delirium","delirium","Smoking initiation","Inverse variance weighted",73,0.240253216340289,0.129990537221921,0.0645681809529886
+"4","2vrdcJ","delirium","delirium","Smoking initiation","Simple mode",73,0.0918345386371344,0.483181755161075,0.84979530868661
+"5","2vrdcJ","delirium","delirium","Smoking initiation","Weighted mode",73,0.170166575898707,0.416790300571162,0.684280797771614

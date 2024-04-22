@@ -1,0 +1,6 @@
+"","id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"1","T2D","delirium","delirium","T2D","MR Egger",14,-0.997681699293914,1.23083973778462,0.433394409095219
+"2","T2D","delirium","delirium","T2D","Weighted median",14,0.142789051994381,0.340744882000141,0.675179785902344
+"3","T2D","delirium","delirium","T2D","Inverse variance weighted",14,0.152817634119793,0.251324916492864,0.543155582800644
+"4","T2D","delirium","delirium","T2D","Simple mode",14,-0.0274579130173849,0.573763827215063,0.962558580755701
+"5","T2D","delirium","delirium","T2D","Weighted mode",14,-0.0274579130173849,0.582620004909795,0.963127255968593

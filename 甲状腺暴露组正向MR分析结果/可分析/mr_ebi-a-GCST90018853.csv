@@ -1,0 +1,6 @@
+"","id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"1","ebi-a-GCST90018853","delirium","delirium","Goiter || id:ebi-a-GCST90018853","MR Egger",18,0.0260699813458801,0.0879123867235983,0.770628674787968
+"2","ebi-a-GCST90018853","delirium","delirium","Goiter || id:ebi-a-GCST90018853","Weighted median",18,0.0658930954143516,0.0438043051581722,0.132514249968116
+"3","ebi-a-GCST90018853","delirium","delirium","Goiter || id:ebi-a-GCST90018853","Inverse variance weighted",18,0.0601731513389839,0.0335680595780717,0.073041445804241
+"4","ebi-a-GCST90018853","delirium","delirium","Goiter || id:ebi-a-GCST90018853","Simple mode",18,0.177898755461589,0.101899601944868,0.0988865188374019
+"5","ebi-a-GCST90018853","delirium","delirium","Goiter || id:ebi-a-GCST90018853","Weighted mode",18,0.128076239419742,0.0646604147693281,0.0640357176687475

@@ -1,0 +1,6 @@
+"","id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"1","ukb-b-1315","delirium","delirium","Operation code: thyroidectomy/partial thyroidectomy || id:ukb-b-1315","MR Egger",19,-7.89908045306129,11.6445552383349,0.506679661847983
+"2","ukb-b-1315","delirium","delirium","Operation code: thyroidectomy/partial thyroidectomy || id:ukb-b-1315","Weighted median",19,-0.378784944455087,5.29989588269749,0.94302349193142
+"3","ukb-b-1315","delirium","delirium","Operation code: thyroidectomy/partial thyroidectomy || id:ukb-b-1315","Inverse variance weighted",19,7.3461853721586,3.95010271479051,0.0629215548261349
+"4","ukb-b-1315","delirium","delirium","Operation code: thyroidectomy/partial thyroidectomy || id:ukb-b-1315","Simple mode",19,0.113329613877397,10.5290012961897,0.991530482622222
+"5","ukb-b-1315","delirium","delirium","Operation code: thyroidectomy/partial thyroidectomy || id:ukb-b-1315","Weighted mode",19,-2.72124902937664,6.18519609964322,0.665202111428081

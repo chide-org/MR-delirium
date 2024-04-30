@@ -1,0 +1,6 @@
+"","id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"1","ukb-a-524","delirium","delirium","Diagnoses - main ICD10: E04 Other non-toxic goitre || id:ukb-a-524","MR Egger",6,14.8582388745394,25.4560386984344,0.590762629815489
+"2","ukb-a-524","delirium","delirium","Diagnoses - main ICD10: E04 Other non-toxic goitre || id:ukb-a-524","Weighted median",6,16.3739631195617,13.8486272206796,0.237065744727106
+"3","ukb-a-524","delirium","delirium","Diagnoses - main ICD10: E04 Other non-toxic goitre || id:ukb-a-524","Inverse variance weighted",6,15.9083254187795,13.1968547526443,0.228024458471429
+"4","ukb-a-524","delirium","delirium","Diagnoses - main ICD10: E04 Other non-toxic goitre || id:ukb-a-524","Simple mode",6,10.4138415608649,20.8234580094943,0.638232338386134
+"5","ukb-a-524","delirium","delirium","Diagnoses - main ICD10: E04 Other non-toxic goitre || id:ukb-a-524","Weighted mode",6,16.1609276728111,15.0285749895218,0.331348898195664

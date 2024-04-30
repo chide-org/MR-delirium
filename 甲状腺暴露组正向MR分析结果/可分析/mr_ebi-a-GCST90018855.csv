@@ -1,0 +1,6 @@
+"","id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"1","ebi-a-GCST90018855","delirium","delirium","Hashimoto thyroiditis || id:ebi-a-GCST90018855","MR Egger",11,-0.085757780814053,0.13136661796888,0.530197188627231
+"2","ebi-a-GCST90018855","delirium","delirium","Hashimoto thyroiditis || id:ebi-a-GCST90018855","Weighted median",11,0.148088249839211,0.0672872773135872,0.0277476490920281
+"3","ebi-a-GCST90018855","delirium","delirium","Hashimoto thyroiditis || id:ebi-a-GCST90018855","Inverse variance weighted",11,0.11329141706511,0.05077386196068,0.0256616562780011
+"4","ebi-a-GCST90018855","delirium","delirium","Hashimoto thyroiditis || id:ebi-a-GCST90018855","Simple mode",11,0.179718890997733,0.113310637250347,0.143806157834362
+"5","ebi-a-GCST90018855","delirium","delirium","Hashimoto thyroiditis || id:ebi-a-GCST90018855","Weighted mode",11,0.146657133739859,0.0998660533295515,0.172698121449672

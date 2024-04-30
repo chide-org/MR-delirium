@@ -1,0 +1,3 @@
+"","id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"1","ukb-a-190","delirium","delirium","Treatment/medication code: levothyroxine sodium || id:ukb-a-190","MR Egger",68.2748443981091,51,0.0534026953802931
+"2","ukb-a-190","delirium","delirium","Treatment/medication code: levothyroxine sodium || id:ukb-a-190","Inverse variance weighted",69.0762369170345,52,0.0566355424634614

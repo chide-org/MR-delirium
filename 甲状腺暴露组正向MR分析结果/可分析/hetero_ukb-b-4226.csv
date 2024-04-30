@@ -1,0 +1,3 @@
+"","id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"1","ukb-b-4226","delirium","delirium","Diagnoses - secondary ICD10: E03.9 Hypothyroidism, unspecified || id:ukb-b-4226","MR Egger",31.3036549796617,32,0.501626328994351
+"2","ukb-b-4226","delirium","delirium","Diagnoses - secondary ICD10: E03.9 Hypothyroidism, unspecified || id:ukb-b-4226","Inverse variance weighted",32.4090144173537,33,0.49636352956389

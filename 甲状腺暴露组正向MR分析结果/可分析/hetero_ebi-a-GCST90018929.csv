@@ -1,0 +1,3 @@
+"","id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"1","ebi-a-GCST90018929","delirium","delirium","Thyroid cancer || id:ebi-a-GCST90018929","MR Egger",0.936101492975561,1,0.333282458692702
+"2","ebi-a-GCST90018929","delirium","delirium","Thyroid cancer || id:ebi-a-GCST90018929","Inverse variance weighted",3.60866326988152,2,0.164584422301599

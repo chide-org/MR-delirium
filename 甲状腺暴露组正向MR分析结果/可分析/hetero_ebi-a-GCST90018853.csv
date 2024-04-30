@@ -1,0 +1,3 @@
+"","id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"1","ebi-a-GCST90018853","delirium","delirium","Goiter || id:ebi-a-GCST90018853","MR Egger",22.1640622426613,16,0.13797276111165
+"2","ebi-a-GCST90018853","delirium","delirium","Goiter || id:ebi-a-GCST90018853","Inverse variance weighted",22.410236415829,17,0.169452622365388

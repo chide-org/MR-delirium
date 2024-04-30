@@ -1,0 +1,6 @@
+"","id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"1","ebi-a-GCST90018860","delirium","delirium","Hyperthyroidism || id:ebi-a-GCST90018860","MR Egger",11,-0.034332950080446,0.100094527117531,0.739470158917026
+"2","ebi-a-GCST90018860","delirium","delirium","Hyperthyroidism || id:ebi-a-GCST90018860","Weighted median",11,-0.004854072780098,0.0541901122291991,0.928625047291881
+"3","ebi-a-GCST90018860","delirium","delirium","Hyperthyroidism || id:ebi-a-GCST90018860","Inverse variance weighted",11,0.0274326363805497,0.0410622833900915,0.5040864744995
+"4","ebi-a-GCST90018860","delirium","delirium","Hyperthyroidism || id:ebi-a-GCST90018860","Simple mode",11,-0.0714177962030189,0.0851866272031448,0.421410841939632
+"5","ebi-a-GCST90018860","delirium","delirium","Hyperthyroidism || id:ebi-a-GCST90018860","Weighted mode",11,-0.0180368547279527,0.0643265731848454,0.784889529780967

@@ -1,0 +1,3 @@
+"","id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"1","ebi-a-GCST90018990","delirium","delirium","Medication use (thyroid preparations) || id:ebi-a-GCST90018990","MR Egger",111.327928430969,115,0.579518016297651
+"2","ebi-a-GCST90018990","delirium","delirium","Medication use (thyroid preparations) || id:ebi-a-GCST90018990","Inverse variance weighted",111.456215937939,116,0.601939080213349

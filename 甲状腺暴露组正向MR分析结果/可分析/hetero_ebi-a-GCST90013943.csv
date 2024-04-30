@@ -1,0 +1,3 @@
+"","id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"1","ebi-a-GCST90013943","delirium","delirium","Hypothyroidism or myxoedema (SPA correction) || id:ebi-a-GCST90013943","MR Egger",111.214834431043,106,0.345289704409286
+"2","ebi-a-GCST90013943","delirium","delirium","Hypothyroidism or myxoedema (SPA correction) || id:ebi-a-GCST90013943","Inverse variance weighted",111.232169018961,107,0.370314270432105

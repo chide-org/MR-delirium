@@ -1,0 +1,6 @@
+"","id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"1","ukb-b-4226","delirium","delirium","Diagnoses - secondary ICD10: E03.9 Hypothyroidism, unspecified || id:ukb-b-4226","MR Egger",34,0.068668554536534,4.54144252453984,0.988029984702707
+"2","ukb-b-4226","delirium","delirium","Diagnoses - secondary ICD10: E03.9 Hypothyroidism, unspecified || id:ukb-b-4226","Weighted median",34,7.16088167582951,2.72546517941131,0.00860406407051927
+"3","ukb-b-4226","delirium","delirium","Diagnoses - secondary ICD10: E03.9 Hypothyroidism, unspecified || id:ukb-b-4226","Inverse variance weighted",34,4.47044995451655,1.75950290212891,0.0110616247965448
+"4","ukb-b-4226","delirium","delirium","Diagnoses - secondary ICD10: E03.9 Hypothyroidism, unspecified || id:ukb-b-4226","Simple mode",34,7.84355946097317,5.57645263058588,0.168908731449777
+"5","ukb-b-4226","delirium","delirium","Diagnoses - secondary ICD10: E03.9 Hypothyroidism, unspecified || id:ukb-b-4226","Weighted mode",34,8.14914651716789,5.6487658623076,0.158546554356015

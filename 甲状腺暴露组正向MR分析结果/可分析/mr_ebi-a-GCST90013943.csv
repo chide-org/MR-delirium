@@ -1,0 +1,6 @@
+"","id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"1","ebi-a-GCST90013943","delirium","delirium","Hypothyroidism or myxoedema (SPA correction) || id:ebi-a-GCST90013943","MR Egger",108,0.0870801530159895,0.0643339779321397,0.178754809404264
+"2","ebi-a-GCST90013943","delirium","delirium","Hypothyroidism or myxoedema (SPA correction) || id:ebi-a-GCST90013943","Weighted median",108,0.120173085314214,0.0469895974964767,0.0105445688227665
+"3","ebi-a-GCST90013943","delirium","delirium","Hypothyroidism or myxoedema (SPA correction) || id:ebi-a-GCST90013943","Inverse variance weighted",108,0.0796874071396085,0.0286932753593734,0.0054826825922878
+"4","ebi-a-GCST90013943","delirium","delirium","Hypothyroidism or myxoedema (SPA correction) || id:ebi-a-GCST90013943","Simple mode",108,0.165014997589298,0.102237584893777,0.109465227598865
+"5","ebi-a-GCST90013943","delirium","delirium","Hypothyroidism or myxoedema (SPA correction) || id:ebi-a-GCST90013943","Weighted mode",108,0.148300172008912,0.0695021198443,0.0351478909366217

@@ -1,0 +1,3 @@
+"","id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"1","ukb-b-9971","delirium","delirium","Treatment/medication code: thyroxine product || id:ukb-b-9971","MR Egger",18.1328538273604,13,0.152539922779402
+"2","ukb-b-9971","delirium","delirium","Treatment/medication code: thyroxine product || id:ukb-b-9971","Inverse variance weighted",18.5057385654263,14,0.184707774336651

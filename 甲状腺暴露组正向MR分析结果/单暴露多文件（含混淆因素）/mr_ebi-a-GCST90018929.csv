@@ -1,0 +1,6 @@
+"","id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"1","ebi-a-GCST90018929","delirium","delirium","Thyroid cancer || id:ebi-a-GCST90018929","MR Egger",3,-0.234062435271385,0.107066379574891,0.273117956558404
+"2","ebi-a-GCST90018929","delirium","delirium","Thyroid cancer || id:ebi-a-GCST90018929","Weighted median",3,-0.0948151903145618,0.0420711437610181,0.0242158649522682
+"3","ebi-a-GCST90018929","delirium","delirium","Thyroid cancer || id:ebi-a-GCST90018929","Inverse variance weighted",3,-0.0707819700828101,0.0518080259486456,0.171865022962433
+"4","ebi-a-GCST90018929","delirium","delirium","Thyroid cancer || id:ebi-a-GCST90018929","Simple mode",3,-0.0910246337079178,0.0632194318463643,0.286577637744759
+"5","ebi-a-GCST90018929","delirium","delirium","Thyroid cancer || id:ebi-a-GCST90018929","Weighted mode",3,-0.100310563314938,0.0479788313552154,0.171698071014815

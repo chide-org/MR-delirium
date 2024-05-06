@@ -1,0 +1,6 @@
+"","id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"1","ukb-b-19732","delirium","delirium","Non-cancer illness code, self-reported: hypothyroidism/myxoedema || id:ukb-b-19732","MR Egger",115,0.936824664430273,1.39230190085446,0.502409874485587
+"2","ukb-b-19732","delirium","delirium","Non-cancer illness code, self-reported: hypothyroidism/myxoedema || id:ukb-b-19732","Weighted median",115,2.77723211847662,1.02125307618914,0.0065393399108327
+"3","ukb-b-19732","delirium","delirium","Non-cancer illness code, self-reported: hypothyroidism/myxoedema || id:ukb-b-19732","Inverse variance weighted",115,1.77471166112507,0.625962925938152,0.00458012255557742
+"4","ukb-b-19732","delirium","delirium","Non-cancer illness code, self-reported: hypothyroidism/myxoedema || id:ukb-b-19732","Simple mode",115,3.23088582886723,2.24870947386218,0.15352122643815
+"5","ukb-b-19732","delirium","delirium","Non-cancer illness code, self-reported: hypothyroidism/myxoedema || id:ukb-b-19732","Weighted mode",115,3.36638075181406,1.38882326074903,0.0169265440055577

@@ -1,0 +1,3 @@
+"","id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"1","ukb-b-20289","delirium","delirium","Non-cancer illness code, self-reported: hyperthyroidism/thyrotoxicosis || id:ukb-b-20289","MR Egger",7.16565957641166,8,0.51886943600723
+"2","ukb-b-20289","delirium","delirium","Non-cancer illness code, self-reported: hyperthyroidism/thyrotoxicosis || id:ukb-b-20289","Inverse variance weighted",8.42738067179174,9,0.491714938511712

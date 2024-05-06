@@ -1,0 +1,6 @@
+"","id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"1","ukb-a-158","delirium","delirium","Treatment/medication code: thyroxine product || id:ukb-a-158","MR Egger",9,-16.3010488103409,11.3861828122943,0.195339999580618
+"2","ukb-a-158","delirium","delirium","Treatment/medication code: thyroxine product || id:ukb-a-158","Weighted median",9,0.080033499915876,5.19019056049555,0.987696990583765
+"3","ukb-a-158","delirium","delirium","Treatment/medication code: thyroxine product || id:ukb-a-158","Inverse variance weighted",9,2.83955635618228,4.87450138977475,0.560207935933683
+"4","ukb-a-158","delirium","delirium","Treatment/medication code: thyroxine product || id:ukb-a-158","Simple mode",9,11.5515554458364,7.95857790040699,0.184709693895577
+"5","ukb-a-158","delirium","delirium","Treatment/medication code: thyroxine product || id:ukb-a-158","Weighted mode",9,-2.58495839351618,5.68915846219063,0.661640130815362

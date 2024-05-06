@@ -1,0 +1,3 @@
+"","id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"1","FT4","delirium","delirium","FT4","MR Egger",14.6332560198171,12,0.262107742960908
+"2","FT4","delirium","delirium","FT4","Inverse variance weighted",16.2788121047486,13,0.234401396881498

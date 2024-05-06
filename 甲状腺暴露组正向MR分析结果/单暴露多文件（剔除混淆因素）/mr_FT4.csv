@@ -1,0 +1,6 @@
+"","id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"1","FT4","delirium","delirium","FT4","MR Egger",14,0.709135433852941,0.723991000814782,0.346677195749503
+"2","FT4","delirium","delirium","FT4","Weighted median",14,-0.0163174467035068,0.211060097983542,0.938375463933522
+"3","FT4","delirium","delirium","FT4","Inverse variance weighted",14,-0.107396372593171,0.175773426251557,0.541204065475577
+"4","FT4","delirium","delirium","FT4","Simple mode",14,-0.0928243503743356,0.303790524974546,0.764782087966646
+"5","FT4","delirium","delirium","FT4","Weighted mode",14,-0.0717638242977165,0.281093298655785,0.802484128248419

@@ -1,0 +1,6 @@
+"","id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"1","ukb-b-20289","delirium","delirium","Non-cancer illness code, self-reported: hyperthyroidism/thyrotoxicosis || id:ukb-b-20289","MR Egger",10,-5.48799504683131,7.57882313889378,0.489622164949893
+"2","ukb-b-20289","delirium","delirium","Non-cancer illness code, self-reported: hyperthyroidism/thyrotoxicosis || id:ukb-b-20289","Weighted median",10,-0.102290341888404,5.35441181870762,0.984758191353293
+"3","ukb-b-20289","delirium","delirium","Non-cancer illness code, self-reported: hyperthyroidism/thyrotoxicosis || id:ukb-b-20289","Inverse variance weighted",10,1.57311339525086,4.23340323007737,0.710194074295861
+"4","ukb-b-20289","delirium","delirium","Non-cancer illness code, self-reported: hyperthyroidism/thyrotoxicosis || id:ukb-b-20289","Simple mode",10,7.99878415685985,9.69880826920403,0.430846346020378
+"5","ukb-b-20289","delirium","delirium","Non-cancer illness code, self-reported: hyperthyroidism/thyrotoxicosis || id:ukb-b-20289","Weighted mode",10,0.170486340114927,5.96650604132642,0.977828011840517

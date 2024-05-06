@@ -1,0 +1,6 @@
+"","id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"1","ukb-a-190","delirium","delirium","Treatment/medication code: levothyroxine sodium || id:ukb-a-190","MR Egger",51,3.63707801686576,2.30909168438252,0.121665800223694
+"2","ukb-a-190","delirium","delirium","Treatment/medication code: levothyroxine sodium || id:ukb-a-190","Weighted median",51,3.4505437891273,1.34260893369583,0.0101690025116471
+"3","ukb-a-190","delirium","delirium","Treatment/medication code: levothyroxine sodium || id:ukb-a-190","Inverse variance weighted",51,1.8469263569667,0.979020023409476,0.0592269094537113
+"4","ukb-a-190","delirium","delirium","Treatment/medication code: levothyroxine sodium || id:ukb-a-190","Simple mode",51,4.78024528400097,2.67345329259658,0.0798298351883736
+"5","ukb-a-190","delirium","delirium","Treatment/medication code: levothyroxine sodium || id:ukb-a-190","Weighted mode",51,4.41545136227929,1.98843469598809,0.030940795347476

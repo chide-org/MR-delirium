@@ -1,0 +1,3 @@
+"","id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"1","ukb-b-1315","delirium","delirium","Operation code: thyroidectomy/partial thyroidectomy || id:ukb-b-1315","MR Egger",18.3965977529733,17,0.364244040426593
+"2","ukb-b-1315","delirium","delirium","Operation code: thyroidectomy/partial thyroidectomy || id:ukb-b-1315","Inverse variance weighted",20.4794299501659,18,0.306484520315416

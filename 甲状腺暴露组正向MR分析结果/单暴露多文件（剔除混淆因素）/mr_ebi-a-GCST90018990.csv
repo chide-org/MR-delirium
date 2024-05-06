@@ -1,0 +1,6 @@
+"","id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"1","ebi-a-GCST90018990","delirium","delirium","Medication use (thyroid preparations) || id:ebi-a-GCST90018990","MR Egger",116,0.0581813675707446,0.0620193601929351,0.350167988463641
+"2","ebi-a-GCST90018990","delirium","delirium","Medication use (thyroid preparations) || id:ebi-a-GCST90018990","Weighted median",116,0.126341227659257,0.0483213896160228,0.00893313435862743
+"3","ebi-a-GCST90018990","delirium","delirium","Medication use (thyroid preparations) || id:ebi-a-GCST90018990","Inverse variance weighted",116,0.074574618290465,0.029410224182256,0.0112232492565574
+"4","ebi-a-GCST90018990","delirium","delirium","Medication use (thyroid preparations) || id:ebi-a-GCST90018990","Simple mode",116,0.175060119174071,0.105617467344169,0.100145621559693
+"5","ebi-a-GCST90018990","delirium","delirium","Medication use (thyroid preparations) || id:ebi-a-GCST90018990","Weighted mode",116,0.142936044598417,0.068986687471367,0.0405073720286599

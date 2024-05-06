@@ -1,0 +1,6 @@
+"","id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"1","TSH","delirium","delirium","TSH","MR Egger",18,0.480754302021767,0.49078029430949,0.341878200688129
+"2","TSH","delirium","delirium","TSH","Weighted median",18,0.120550933374306,0.21704659535886,0.5786108393526
+"3","TSH","delirium","delirium","TSH","Inverse variance weighted",18,0.0831684208766736,0.148910609724077,0.576494544766375
+"4","TSH","delirium","delirium","TSH","Simple mode",18,0.20354048819898,0.386756150750608,0.605495208123254
+"5","TSH","delirium","delirium","TSH","Weighted mode",18,0.181618443285918,0.370736420157052,0.630476754481726

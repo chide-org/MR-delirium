@@ -1,0 +1,3 @@
+"","id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"1","ebi-a-GCST90018855","delirium","delirium","Hashimoto thyroiditis || id:ebi-a-GCST90018855","MR Egger",8.6915398647949,9,0.466221066853765
+"2","ebi-a-GCST90018855","delirium","delirium","Hashimoto thyroiditis || id:ebi-a-GCST90018855","Inverse variance weighted",11.3359069037814,10,0.331953497497949

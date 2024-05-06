@@ -1,0 +1,3 @@
+"","id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"1","ebi-a-GCST90018860","delirium","delirium","Hyperthyroidism || id:ebi-a-GCST90018860","MR Egger",8.60403491879911,8,0.376791300708753
+"2","ebi-a-GCST90018860","delirium","delirium","Hyperthyroidism || id:ebi-a-GCST90018860","Inverse variance weighted",9.85045571949665,9,0.362726887134558

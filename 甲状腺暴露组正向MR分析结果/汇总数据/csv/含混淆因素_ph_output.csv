@@ -1,0 +1,27 @@
+Exposure,ID.exposure,egger_intercept,intercept_se,intercept_pval,Q_pval_ivw,Q_pval_egger
+Treatment/medication code: thyroxine product || id:ukb-a-158,ukb-a-158,0.051504909,0.028373265,0.112345665,0.0899175,0.230805207
+Diagnoses - main ICD10: E04 Other non-toxic goitre || id:ukb-a-524,ukb-a-524,0.001711385,0.033813143,0.962060483,0.149190461,0.087095958
+Operation code: thyroidectomy/partial thyroidectomy || id:ukb-b-1315,ukb-b-1315,0.030351889,0.021877761,0.183258323,0.30648452,0.36424404
+Hypothyroidism or myxoedema (Firth correction) || id:ebi-a-GCST90013893,ebi-a-GCST90013893,-0.003390113,0.006381182,0.596334763,0.290753439,0.274594437
+Hypothyroidism or myxoedema (SPA correction) || id:ebi-a-GCST90013943,ebi-a-GCST90013943,-0.000803998,0.006254994,0.897967539,0.37031427,0.345289704
+Goiter || id:ebi-a-GCST90018853,ebi-a-GCST90018853,0.009211926,0.021852136,0.678957302,0.169452622,0.137972761
+Hashimoto thyroiditis || id:ebi-a-GCST90018855,ebi-a-GCST90018855,0.036893033,0.022687335,0.138361775,0.331953497,0.466221067
+Hyperthyroidism || id:ebi-a-GCST90018860,ebi-a-GCST90018860,0.015630761,0.022967937,0.513283431,0.399335468,0.353062047
+Hypothyroidism || id:ebi-a-GCST90018862,ebi-a-GCST90018862,-0.000243547,0.007873841,0.975422226,0.645340816,0.611297342
+Thyroid cancer || id:ebi-a-GCST90018929,ebi-a-GCST90018929,0.068090415,0.041650681,0.349488746,0.164584422,0.333282459
+Medication use (thyroid preparations) || id:ebi-a-GCST90018990,ebi-a-GCST90018990,0.00204731,0.00571599,0.720870872,0.60193908,0.579518016
+Hypothyroidism || id:ebi-a-GCST90029022,ebi-a-GCST90029022,0.004920889,0.006416366,0.444643345,0.031967633,0.030473828
+FT4,FT4,-0.041652665,0.035856369,0.267961475,0.234401397,0.262107743
+TSH,TSH,-0.019628822,0.023087594,0.40776287,0.513554346,0.493935663
+Treatment/medication code: levothyroxine sodium || id:ukb-a-190,ukb-a-190,-0.008347197,0.010788555,0.442674951,0.056635542,0.053402695
+Diagnoses - main ICD10: E03 Other hypothyroidism || id:ukb-a-523,ukb-a-523,-0.013587911,0.051283306,0.797740974,0.502917855,0.41030132
+Non-cancer illness code  self-reported: hyperthyroidism/thyrotoxicosis || id:ukb-a-76,ukb-a-76,0.022100744,0.030354123,0.519237736,0.434399313,0.358152707
+Non-cancer illness code  self-reported: hypothyroidism/myxoedema || id:ukb-a-77,ukb-a-77,0.00079567,0.007323772,0.913765338,0.399208619,0.369183343
+Treatment/medication code: levothyroxine sodium || id:ukb-b-17918,ukb-b-17918,0.0031947,0.008599425,0.711340052,0.127143622,0.113492959
+"Non-cancer illness code, self-reported: hypothyroidism/myxoedema || id:ukb-b-19732",ukb-b-19732,0.004466731,0.00625078,0.476324566,0.280175824,0.269893887
+"Non-cancer illness code, self-reported: hyperthyroidism/thyrotoxicosis || id:ukb-b-20289",ukb-b-20289,0.01971634,0.015899883,0.246319801,0.558729069,0.617994369
+"Diagnoses - secondary ICD10: E03.9 Hypothyroidism, unspecified || id:ukb-b-4226",ukb-b-4226,0.013116327,0.012475573,0.300968006,0.49636353,0.501626329
+Treatment/medication code: thyroxine product || id:ukb-b-9971,ukb-b-9971,0.011781596,0.022786532,0.613810522,0.184707774,0.152539923
+goiter (SPA correction) || id:ebi-a-GCST90013933,ebi-a-GCST90013933,NA,NA,NA,0.205012694,NA
+Treatment/medication code: thyroxine sodium || id:ukb-b-16956,ukb-b-16956,NA,NA,NA,NA,NA
+"Non-cancer illness code, self-reported: thyroid problem (not cancer) || id:ukb-b-13532",ukb-b-13532,NA,NA,NA,NA,NA

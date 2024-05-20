@@ -1,7 +1,7 @@
 Exposure,ID.exposure,egger_intercept,intercept_se,intercept_pval,Q_pval_ivw,Q_pval_egger
-Treatment/medication code: thyroxine product || id:ukb-a-158,ukb-a-158,0.051504909,0.028373265,0.112345665,0.0899175,0.230805207
-Diagnoses - main ICD10: E04 Other non-toxic goitre || id:ukb-a-524,ukb-a-524,0.001711385,0.033813143,0.962060483,0.149190461,0.087095958
-Operation code: thyroidectomy/partial thyroidectomy || id:ukb-b-1315,ukb-b-1315,0.030351889,0.021877761,0.183258323,0.30648452,0.36424404
+Treatment/medication code: thyroxine product || id:ukb-a-158,（多）ukb-a-158,0.051504909,0.028373265,0.112345665,0.0899175,0.230805207
+Diagnoses - main ICD10: E04 Other non-toxic goitre || id:ukb-a-524,（多）ukb-a-524,0.001711385,0.033813143,0.962060483,0.149190461,0.087095958
+Operation code: thyroidectomy/partial thyroidectomy || id:ukb-b-1315,（多）ukb-b-1315,0.030351889,0.021877761,0.183258323,0.30648452,0.36424404
 Hypothyroidism or myxoedema (Firth correction) || id:ebi-a-GCST90013893,ebi-a-GCST90013893,-0.004192698,0.006363933,0.511438794,0.320063766,0.306734981
 Hypothyroidism or myxoedema (SPA correction) || id:ebi-a-GCST90013943,ebi-a-GCST90013943,-0.001566898,0.006241984,0.802284916,0.400822091,0.376203389
 Goiter || id:ebi-a-GCST90018853,ebi-a-GCST90018853,0.009211926,0.021852136,0.678957302,0.169452622,0.137972761

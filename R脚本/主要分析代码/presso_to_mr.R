@@ -2,8 +2,8 @@ library(tidyverse)
 
 
 # prepare data
-setwd("D:/A-MR/exposure/harmon")
-harmonDirs <- "/"
+setwd("D:/A-MR/exposure/remr")
+harmonDirs <- "./"
 files <- list.files(harmonDirs, full.names = F)
 files
 
@@ -14,7 +14,7 @@ for (file in files) {
     tryCatch(
         {
             dat_harmon <- fread(file)
-            file <- substring(file, 8)
+            file <- substring(file, 9)
             name <- substring(file, 0, nchar(file) - 4)
 
 

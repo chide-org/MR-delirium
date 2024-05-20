@@ -1,17 +1,17 @@
-"Exposure","SNP","Confounder","PMID","P.value","Detection.method"
-"ebi-a-GCST90013893","rs11884495","Years of educational attainment",27225129,8.8e-10,"PhenoScanner"
-"ebi-a-GCST90013893","rs7971751","Years of educational attainment",27225129,1.41e-08,"PhenoScanner"
-"ebi-a-GCST90013943","rs11884495","Years of educational attainment",27225129,8.8e-10,"PhenoScanner"
-"ebi-a-GCST90013943","rs7971751","Years of educational attainment",27225129,1.41e-08,"PhenoScanner"
-"ebi-a-GCST90018860","rs6131010","Educational attainment",35361970,6e-10,"GWAS Catalog"
-"ebi-a-GCST90018990","rs705704","Years of educational attainment",27225129,7.72e-12,"PhenoScanner"
-"ebi-a-GCST90029022","rs1921309","Years of educational attainment",27225129,1.4e-09,"PhenoScanner"
-"ebi-a-GCST90029022","rs772920","Years of educational attainment",27225129,4.73e-10,"PhenoScanner"
-"ukb-a-190","rs1689510","Educational attainment (years of education)",30595370,8e-14,"GWAS Catalog"
-"ukb-a-190","rs9380237","Educational attainment",35361970,7e-14,"GWAS Catalog"
-"ukb-a-77","rs705702","Years of educational attainment",27225129,4.97e-10,"PhenoScanner"
-"ukb-b-17918","rs1689510","Educational attainment (years of education)",30595370,8e-14,"GWAS Catalog"
-"ukb-b-17918","rs9380237","Educational attainment",35361970,7e-14,"GWAS Catalog"
-"ukb-b-19732","rs1921309","Years of educational attainment",27225129,1.4e-09,"PhenoScanner"
-"ukb-b-19732","rs772920","Years of educational attainment",27225129,4.73e-10,"PhenoScanner"
-"ukb-b-20289","rs12741781","Years of educational attainment",27225129,9.05e-10,"PhenoScanner"
+Exposure,ID.exposure,nsnp(去混淆之后的),SNP,Confounder,PMID,P.value,Detection.method
+Hypothyroidism or myxoedema (Firth correction) || id:ebi-a-GCST90013893,ebi-a-GCST90013893,108,rs11884495,Years of educational attainment,27225129,8.80E-10,PhenoScanner
+Hypothyroidism or myxoedema (Firth correction) || id:ebi-a-GCST90013893,ebi-a-GCST90013893,108,rs7971751,Years of educational attainment,27225129,1.41E-08,PhenoScanner
+Hypothyroidism or myxoedema (SPA correction) || id:ebi-a-GCST90013943,ebi-a-GCST90013943,107,rs11884495,Years of educational attainment,27225129,8.80E-10,PhenoScanner
+Hypothyroidism or myxoedema (SPA correction) || id:ebi-a-GCST90013943,ebi-a-GCST90013943,107,rs7971751,Years of educational attainment,27225129,1.41E-08,PhenoScanner
+Hyperthyroidism || id:ebi-a-GCST90018860,ebi-a-GCST90018860,10,rs6131010,Educational attainment,35361970,6.00E-10,GWAS Catalog
+Medication use (thyroid preparations) || id:ebi-a-GCST90018990,ebi-a-GCST90018990,116,rs705704,Years of educational attainment,27225129,7.72E-12,PhenoScanner
+Hypothyroidism || id:ebi-a-GCST90029022,ebi-a-GCST90029022,120,rs1921309,Years of educational attainment,27225129,1.40E-09,PhenoScanner
+Hypothyroidism || id:ebi-a-GCST90029022,ebi-a-GCST90029022,120,rs772920,Years of educational attainment,27225129,4.73E-10,PhenoScanner
+Treatment/medication code: levothyroxine sodium || id:ukb-a-190,ukb-a-190,51,rs1689510,Educational attainment (years of education),30595370,8.00E-14,GWAS Catalog
+Treatment/medication code: levothyroxine sodium || id:ukb-a-190,ukb-a-190,51,rs9380237,Educational attainment,35361970,7.00E-14,GWAS Catalog
+Non-cancer illness code  self-reported: hypothyroidism/myxoedema || id:ukb-a-77,ukb-a-77,79,rs705702,Years of educational attainment,27225129,4.97E-10,PhenoScanner
+Treatment/medication code: levothyroxine sodium || id:ukb-b-17918,ukb-b-17918,73,rs1689510,Educational attainment (years of education),30595370,8.00E-14,GWAS Catalog
+Treatment/medication code: levothyroxine sodium || id:ukb-b-17918,ukb-b-17918,73,rs9380237,Educational attainment,35361970,7.00E-14,GWAS Catalog
+"Non-cancer illness code, self-reported: hypothyroidism/myxoedema || id:ukb-b-19732",ukb-b-19732,115,rs1921309,Years of educational attainment,27225129,1.40E-09,PhenoScanner
+"Non-cancer illness code, self-reported: hypothyroidism/myxoedema || id:ukb-b-19732",ukb-b-19732,115,rs772920,Years of educational attainment,27225129,4.73E-10,PhenoScanner
+"Non-cancer illness code, self-reported: hyperthyroidism/thyrotoxicosis || id:ukb-b-20289",ukb-b-20289,10,rs12741781,Years of educational attainment,27225129,9.05E-10,PhenoScanner

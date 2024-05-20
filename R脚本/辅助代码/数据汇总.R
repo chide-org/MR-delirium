@@ -36,7 +36,7 @@ phenotype_list <-
   substr(phenotype_list, 1, nchar(phenotype_list) - 4)
 phenotype_list
 #manyDataPath <-"D:/A-MR/exposure/含混淆因素-csv"
-manyDataPath <-"D:/A-MR/exposure/无混淆-csv"
+manyDataPath <- "D:/A-MR/exposure/无混淆-csv"
 
 
 
@@ -45,9 +45,7 @@ setwd(manyDataPath)
 for (phenotype in phenotype_list) {
   tryCatch({
     # 读取表型数据
-    mrdat <-read.csv(paste0("mr_", phenotype, ".csv"), header = T)
- #   setwd("D:/A-MR/exposure/需要手动汇总的暴露")
-  #  mrdat <- read.csv("mr_（多）ukb-b-13532.csv",header = T)
+    mrdat <- read.csv(paste0("mr_", phenotype, ".csv"), header = T)
     mrdat <- generate_odds_ratios(mrdat)
     Exposure <- mrdat$exposure[1]
     ID.exposure <- mrdat$id.exposure[1]
@@ -88,7 +86,7 @@ for (phenotype in phenotype_list) {
           "or_uci95"
         )
       ) %>%
-      select(-outcome, -exposure, -id.outcome)
+      select(-outcome,-exposure,-id.outcome)
     
     # 定义一个函数，用于替换每列的NA值为该列的唯一非NA值
     replace_na_with_unique <- function(x) {
@@ -104,7 +102,7 @@ for (phenotype in phenotype_list) {
     # 压缩为一行
     temp_data <- temp_data %>%
       mutate(across(everything(), replace_na_with_unique)) %>%
-      summarise_all(list(~ first(.)))
+      summarise_all(list( ~ first(.)))
     temp_data <- temp_data %>%
       mutate(Exposure = Exposure,
              ID.exposure = ID.exposure,
@@ -168,9 +166,15 @@ setwd("D:/A-MR/exposure/clump")
 for (phenotype in phenotype_list) {
   tryCatch({
     snp <-
-      read.csv(paste0(phenotype, ".csv"), header = T) %>% select(SNP)
+      read.csv(paste0(phenotype, ".csv"), header = T) %>% select("SNP")
+    setwd(manyDataPath)
+    mrdat <- read.csv(paste0("mr_", phenotype, ".csv"), header = T)
+    setwd("D:/A-MR/exposure/clump")
+    Exposure <- mrdat$exposure[1]
+    ID.exposure <- mrdat$id.exposure[1]
+    nsnp <- mrdat$nsnp[1]
     temp_data <-
-      confuse[confuse$SNP %in% snp$SNP, ] %>% mutate(Exposure = phenotype, .before = 1)
+      confuse[confuse$SNP %in% snp$SNP,] %>% mutate(Exposure, ID.exposure, nsnp, .before = 1)
     confounder_output <- rbind(confounder_output, temp_data)
   },
   error = function(e) {

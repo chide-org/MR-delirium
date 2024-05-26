@@ -3,6 +3,7 @@ library(data.table)
 library(tidyverse)
 
 
+
   # 设置工作路径
 work <- "D:/A-MR/exposure/rough_data"   # '\'要手动换成'/'
 TwoSampleMR <- "D:/A-MR/library/TwoSampleMR"  # '\'要手动换成'/'
@@ -55,8 +56,8 @@ View(dat)  # 检查p值是不是都是小于5e-8
 
 
   # 根据beta=log(or),samplesize=ncase+ncontrol,se+p=>eaf,计算F值等添加列
-dat$se <- as.numeric(dat$se)
-dat <- dat %>% mutate(beta = log(se),id = "an2017",phenotype = "an2017")
+dat$se <- as.numeric(dat$or)
+dat <- dat %>% mutate(beta = log(or),id = "an2017",phenotype = "an2017")
 viewn(dat)
 
 
@@ -89,7 +90,7 @@ road <- system.file("temp.csv",package = "TwoSampleMR")   # 获取文件路径
 
 
   # 进行clump,失败则进行本地clump
-dat <- read_exposure_data(
+dat_read <- read_exposure_data(
   
   filename = road,
   clump = F,
@@ -107,20 +108,17 @@ dat <- read_exposure_data(
   phenotype_col = "phenotype",
   id_col = "id"
 )
-viewn(dat)
+viewn(dat_read)
 
 
   #clump失败 JUMP TO 本地clump得到dat_clumped
 
 
-dat <- dat[dat$rsid%in%data_clumped$rsid]
-sum(!dat$rsid%in%data_clumped$rsid)
-length(unique(data_clumped$rsid))
-nrow(dat_read)
+dat_read <- dat_read[dat_read$SNP%in%data_clumped$rsid,]
+
 viewn(dat_read)
 setwd(work)
-
-write.csv(dat,file = "clump/an2017.csv")
+write.csv(dat_read,file = "clump/an2017.csv",row.names = F)
 
 
 

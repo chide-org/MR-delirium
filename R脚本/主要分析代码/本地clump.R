@@ -20,8 +20,4 @@ data_clumped <- ld_clump(
   bfile = "1kg.v3/EUR"
 )
 viewn(data_clumped)
-# 转换并合并数据
-dat <- data_clumped %>%
-  rename(SNP = rsid, pval.exposure = pval, id.exposure = id) %>%
-  left_join(dat, by = c("SNP", "pval.exposure", "id.exposure"))
 

@@ -1,3 +1,4 @@
+library(TwoSampleMR)
 # outcome
 outcome <- fread("outcome/zhanwang")
 
